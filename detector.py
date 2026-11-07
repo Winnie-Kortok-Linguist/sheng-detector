@@ -2,7 +2,7 @@
 # Analyses code-switching between Sheng, Swahili and English
 # Data from students in Ruiru, Kenya
 
-sheng_words = ["mambo", "madhaoo", "poa", "sasa", "maze", "mbogi", "kiroma"]
+sheng_words = ["mambo", "madhaoo", "poa", "sasa", "maze", "mbogi", "rende", "tenje", "mafrumbanya", "siaka", "kidukulu", "mjulus", "ndonyo"]
 swahili_words = ["leo", "tutaenda", "anadai", "ako", "na", "lakini", "si", "uniangushie", "iko"]
 english_words = ["my", "friend", "town", "teacher"]
 
