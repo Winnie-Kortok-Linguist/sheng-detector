@@ -25,3 +25,15 @@ my -> ENGLISH
 ## Next steps
 - Add more Sheng words from my classroom data
 - Add CSV export for my research
+- 
+## Sheng Glossary (Ruiru Classroom Data)
+Collected from my students in Ruiru, Kenya. Includes taboo terms - documented for linguistic research.
+
+- Mbogi - crew
+- Rende - crew / group
+- Tenje - phone
+- Mafrumbanya - buttocks
+- Siaka - to run / speed off
+- Kidukulu - weed
+- Mjulus - penis
+- Ndonyo - sale / police raid
