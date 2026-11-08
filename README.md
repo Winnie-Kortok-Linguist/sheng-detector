@@ -27,8 +27,7 @@ my -> ENGLISH
 - Add CSV export for my research
 - 
 ## Sheng Glossary (Ruiru Classroom Data)
-Collected from my students in Ruiru, Kenya. Includes taboo terms - documented for linguistic research.
-
+Data note*: words collected from anonymous classroom observation in Ruiru, Kenya. No student names, no recordings, no personal data collected. Taboo terms included for completeness, as is standard in lexicography and sociolinguistic research.
 - Mbogi - crew
 - Rende - crew / group
 - Tenje - phone
